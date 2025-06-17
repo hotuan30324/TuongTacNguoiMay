@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_thongkeve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|solutionrelative:frm_thongkeve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_thongtintaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|solutionrelative:frm_thongtintaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|solutionrelative:frm_doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_banvemb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|solutionrelative:frm_banvemb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_banvemb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|solutionrelative:frm_banvemb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_doimk.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|solutionrelative:frm_doimk.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_thongtintaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|solutionrelative:frm_thongtintaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|solutionrelative:hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|c:\\users\\admin\\documents\\bt_sql\\he_quan_tri_co_so_du_lieu\\btl - nh\u00F3m 10 -  hqtcsdl-20231225t101857z-001\\btl - nh\u00F3m 10 -  hqtcsdl\\winform-btl-nhom8\\btl\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_thongkeve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|solutionrelative:frm_thongkeve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|solutionrelative:khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\dao\\actve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|solutionrelative:dao\\actve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|solutionrelative:nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|solutionrelative:frm_doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\ve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|solutionrelative:ve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\maybay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04FC836-A0D2-4D0F-8E37-47DCD3BAFCB5}|BTL.csproj|solutionrelative:maybay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ActVe.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\DAO\\ActVe.cs",
+              "RelativeDocumentMoniker": "DAO\\ActVe.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\DAO\\ActVe.cs",
+              "RelativeToolTip": "DAO\\ActVe.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAAEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T18:55:45.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frm_ThongKeVe.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_ThongKeVe.cs",
+              "RelativeDocumentMoniker": "frm_ThongKeVe.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_ThongKeVe.cs",
+              "RelativeToolTip": "frm_ThongKeVe.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T18:39:01.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAAF4BAAAAAAAAAAAywGABAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:26:42.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:48:53.034Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_ThongKeVe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_ThongKeVe.cs",
+              "RelativeDocumentMoniker": "frm_ThongKeVe.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_ThongKeVe.cs [Design]",
+              "RelativeToolTip": "frm_ThongKeVe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T18:39:05.282Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Ve.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\Ve.cs",
+              "RelativeDocumentMoniker": "Ve.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\Ve.cs",
+              "RelativeToolTip": "Ve.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:04:50.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\NhanVien.cs",
+              "RelativeDocumentMoniker": "NhanVien.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\NhanVien.cs",
+              "RelativeToolTip": "NhanVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:04:40.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MayBay.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\MayBay.cs",
+              "RelativeDocumentMoniker": "MayBay.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\MayBay.cs",
+              "RelativeToolTip": "MayBay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:04:36.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\KhachHang.cs",
+              "RelativeDocumentMoniker": "KhachHang.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\KhachHang.cs",
+              "RelativeToolTip": "KhachHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:04:27.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\HoaDon.cs",
+              "RelativeDocumentMoniker": "HoaDon.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\HoaDon.cs",
+              "RelativeToolTip": "HoaDon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:04:15.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_ThongTinTaiKhoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_ThongTinTaiKhoan.cs",
+              "RelativeDocumentMoniker": "frm_ThongTinTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_ThongTinTaiKhoan.cs [Design]",
+              "RelativeToolTip": "frm_ThongTinTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T00:37:51.246Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_ThongTinTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_ThongTinTaiKhoan.cs",
+              "RelativeDocumentMoniker": "frm_ThongTinTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_ThongTinTaiKhoan.cs",
+              "RelativeToolTip": "frm_ThongTinTaiKhoan.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwEEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T00:37:48.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_DoiMK.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_DoiMK.cs",
+              "RelativeDocumentMoniker": "frm_DoiMK.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_DoiMK.cs [Design]",
+              "RelativeToolTip": "frm_DoiMK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T00:31:46.164Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_DoiMK.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_DoiMK.Designer.cs",
+              "RelativeDocumentMoniker": "frm_DoiMK.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_DoiMK.Designer.cs",
+              "RelativeToolTip": "frm_DoiMK.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T00:29:49.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frm_DoiMK.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_DoiMK.cs",
+              "RelativeDocumentMoniker": "frm_DoiMK.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_DoiMK.cs",
+              "RelativeToolTip": "frm_DoiMK.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowBgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T00:29:40.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_BanVeMB.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_BanVeMB.cs",
+              "RelativeDocumentMoniker": "frm_BanVeMB.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_BanVeMB.cs [Design]",
+              "RelativeToolTip": "frm_BanVeMB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:49:45.095Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_BanVeMB.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_BanVeMB.cs",
+              "RelativeDocumentMoniker": "frm_BanVeMB.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\frm_BanVeMB.cs",
+              "RelativeToolTip": "frm_BanVeMB.cs",
+              "ViewState": "AQIAAN8AAAAAAAAAAADwv+8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:49:41.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:48:48.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\BT_SQL\\He_quan_tri_co_so_du_lieu\\BTL - Nh\u00F3m 10 -  HQTCSDL-20231225T101857Z-001\\BTL - Nh\u00F3m 10 -  HQTCSDL\\Winform-BTL-Nhom8\\BTL\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAYwCYAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T04:42:46.081Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
