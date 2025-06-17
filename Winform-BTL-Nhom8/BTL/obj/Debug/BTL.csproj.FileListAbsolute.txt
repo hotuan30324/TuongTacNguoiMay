@@ -1,0 +1,188 @@
+D:\Học tập\Hệ thống CSDL\CODE\BTL\bin\Debug\BTL.exe.config
+D:\Học tập\Hệ thống CSDL\CODE\BTL\bin\Debug\BTL.exe
+D:\Học tập\Hệ thống CSDL\CODE\BTL\bin\Debug\BTL.pdb
+D:\Học tập\Hệ thống CSDL\CODE\BTL\obj\Debug\BTL.Form1.resources
+D:\Học tập\Hệ thống CSDL\CODE\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\Học tập\Hệ thống CSDL\CODE\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\Học tập\Hệ thống CSDL\CODE\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\Học tập\Hệ thống CSDL\CODE\BTL\obj\Debug\BTL.exe
+D:\Học tập\Hệ thống CSDL\CODE\BTL\obj\Debug\BTL.pdb
+D:\Học tập\Hệ thống CSDL\CODE\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+D:\Học tập\Hệ thống CSDL\CODE\BTL\bin\Debug\AlphaBlendTextBox.dll
+D:\Học tập\Hệ thống CSDL\CODE\BTL\obj\Debug\BTL.csproj.CopyComplete
+D:\Học tập\Hệ thống CSDL\CODE\BTL\obj\Debug\BTL.Form2.resources
+D:\Học tập\Hệ thống CSDL\CODE\BTL\obj\Debug\BTL.frm_BanVeMB.resources
+D:\Học tập\Hệ thống CSDL\CODE\BTL\obj\Debug\BTL.frm_ThemDuongDi.resources
+D:\Học tập\Hệ thống CSDL\CODE\BTL\obj\Debug\BTL.frm_ThemChuyenBay.resources
+D:\Học tập\Hệ thống CSDL\CODE\BTL\obj\Debug\BTL.frm_ThongTinTaiKhoan.resources
+D:\Học tập\Hệ thống CSDL\CODE\BTL\obj\Debug\BTL.frm_DoiMK.resources
+D:\Học tập\Hệ thống CSDL\CODE\BTL\obj\Debug\BTL.frm_AddNhanVien.resources
+C:\Users\Admin\Documents\BTL\bin\Debug\BTL.exe.config
+C:\Users\Admin\Documents\BTL\bin\Debug\BTL.exe
+C:\Users\Admin\Documents\BTL\bin\Debug\BTL.pdb
+C:\Users\Admin\Documents\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\BTL\obj\Debug\BTL.Form1.resources
+C:\Users\Admin\Documents\BTL\obj\Debug\BTL.Form2.resources
+C:\Users\Admin\Documents\BTL\obj\Debug\BTL.frm_AddNhanVien.resources
+C:\Users\Admin\Documents\BTL\obj\Debug\BTL.frm_BanVeMB.resources
+C:\Users\Admin\Documents\BTL\obj\Debug\BTL.frm_DoiMK.resources
+C:\Users\Admin\Documents\BTL\obj\Debug\BTL.frm_ThemChuyenBay.resources
+C:\Users\Admin\Documents\BTL\obj\Debug\BTL.frm_ThemDuongDi.resources
+C:\Users\Admin\Documents\BTL\obj\Debug\BTL.frm_ThongTinTaiKhoan.resources
+C:\Users\Admin\Documents\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\Admin\Documents\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\BTL\obj\Debug\BTL.csproj.CopyComplete
+C:\Users\Admin\Documents\BTL\obj\Debug\BTL.exe
+C:\Users\Admin\Documents\BTL\obj\Debug\BTL.pdb
+C:\Users\Admin\Documents\BTL\obj\Debug\BTL.frm_BanVe.resources
+C:\Users\Admin\Documents\BTL\obj\Debug\BTL.frm_ThongKeHoaDon.resources
+C:\Users\Admin\Documents\BTL\obj\Debug\BTL.frm_ThongKeVe.resources
+C:\Users\SON\Downloads\BTL\bin\Debug\BTL.exe.config
+C:\Users\SON\Downloads\BTL\bin\Debug\BTL.exe
+C:\Users\SON\Downloads\BTL\bin\Debug\BTL.pdb
+C:\Users\SON\Downloads\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+C:\Users\SON\Downloads\BTL\obj\Debug\BTL.Form1.resources
+C:\Users\SON\Downloads\BTL\obj\Debug\BTL.Form2.resources
+C:\Users\SON\Downloads\BTL\obj\Debug\BTL.frm_AddNhanVien.resources
+C:\Users\SON\Downloads\BTL\obj\Debug\BTL.frm_BanVe.resources
+C:\Users\SON\Downloads\BTL\obj\Debug\BTL.frm_BanVeMB.resources
+C:\Users\SON\Downloads\BTL\obj\Debug\BTL.frm_DoiMK.resources
+C:\Users\SON\Downloads\BTL\obj\Debug\BTL.frm_ThongKeHoaDon.resources
+C:\Users\SON\Downloads\BTL\obj\Debug\BTL.frm_ThongKeVe.resources
+C:\Users\SON\Downloads\BTL\obj\Debug\BTL.frm_ThongTinTaiKhoan.resources
+C:\Users\SON\Downloads\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\SON\Downloads\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\SON\Downloads\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\SON\Downloads\BTL\obj\Debug\BTL.csproj.CopyComplete
+C:\Users\SON\Downloads\BTL\obj\Debug\BTL.exe
+C:\Users\SON\Downloads\BTL\obj\Debug\BTL.pdb
+C:\Users\Admin\Downloads\BTL\bin\Debug\BTL.exe.config
+C:\Users\Admin\Downloads\BTL\bin\Debug\BTL.exe
+C:\Users\Admin\Downloads\BTL\bin\Debug\BTL.pdb
+C:\Users\Admin\Downloads\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\BTL\obj\Debug\BTL.Form1.resources
+C:\Users\Admin\Downloads\BTL\obj\Debug\BTL.Form2.resources
+C:\Users\Admin\Downloads\BTL\obj\Debug\BTL.frm_AddNhanVien.resources
+C:\Users\Admin\Downloads\BTL\obj\Debug\BTL.frm_BanVe.resources
+C:\Users\Admin\Downloads\BTL\obj\Debug\BTL.frm_BanVeMB.resources
+C:\Users\Admin\Downloads\BTL\obj\Debug\BTL.frm_DoiMK.resources
+C:\Users\Admin\Downloads\BTL\obj\Debug\BTL.frm_ThongKeHoaDon.resources
+C:\Users\Admin\Downloads\BTL\obj\Debug\BTL.frm_ThongKeVe.resources
+C:\Users\Admin\Downloads\BTL\obj\Debug\BTL.frm_ThongTinTaiKhoan.resources
+C:\Users\Admin\Downloads\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\Admin\Downloads\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BTL\obj\Debug\BTL.csproj.CopyComplete
+C:\Users\Admin\Downloads\BTL\obj\Debug\BTL.exe
+C:\Users\Admin\Downloads\BTL\obj\Debug\BTL.pdb
+C:\Users\Admin\Desktop\BTL (4)3h42\BTL\bin\Debug\BTL.exe.config
+C:\Users\Admin\Desktop\BTL (4)3h42\BTL\bin\Debug\BTL.exe
+C:\Users\Admin\Desktop\BTL (4)3h42\BTL\bin\Debug\BTL.pdb
+C:\Users\Admin\Desktop\BTL (4)3h42\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\BTL (4)3h42\BTL\obj\Debug\BTL.Form1.resources
+C:\Users\Admin\Desktop\BTL (4)3h42\BTL\obj\Debug\BTL.Form2.resources
+C:\Users\Admin\Desktop\BTL (4)3h42\BTL\obj\Debug\BTL.frm_AddNhanVien.resources
+C:\Users\Admin\Desktop\BTL (4)3h42\BTL\obj\Debug\BTL.frm_BanVe.resources
+C:\Users\Admin\Desktop\BTL (4)3h42\BTL\obj\Debug\BTL.frm_BanVeMB.resources
+C:\Users\Admin\Desktop\BTL (4)3h42\BTL\obj\Debug\BTL.frm_DoiMK.resources
+C:\Users\Admin\Desktop\BTL (4)3h42\BTL\obj\Debug\BTL.frm_ThongKeHoaDon.resources
+C:\Users\Admin\Desktop\BTL (4)3h42\BTL\obj\Debug\BTL.frm_ThongKeVe.resources
+C:\Users\Admin\Desktop\BTL (4)3h42\BTL\obj\Debug\BTL.frm_ThongTinTaiKhoan.resources
+C:\Users\Admin\Desktop\BTL (4)3h42\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\Admin\Desktop\BTL (4)3h42\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BTL (4)3h42\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BTL (4)3h42\BTL\obj\Debug\BTL.csproj.CopyComplete
+C:\Users\Admin\Desktop\BTL (4)3h42\BTL\obj\Debug\BTL.exe
+C:\Users\Admin\Desktop\BTL (4)3h42\BTL\obj\Debug\BTL.pdb
+C:\Users\Lunatic\Desktop\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\bin\Debug\BTL.exe.config
+C:\Users\Lunatic\Desktop\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\bin\Debug\BTL.exe
+C:\Users\Lunatic\Desktop\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\bin\Debug\BTL.pdb
+C:\Users\Lunatic\Desktop\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\Lunatic\Desktop\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.Form1.resources
+C:\Users\Lunatic\Desktop\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.Form2.resources
+C:\Users\Lunatic\Desktop\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.frm_AddNhanVien.resources
+C:\Users\Lunatic\Desktop\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.frm_BanVe.resources
+C:\Users\Lunatic\Desktop\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.frm_BanVeMB.resources
+C:\Users\Lunatic\Desktop\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.frm_DoiMK.resources
+C:\Users\Lunatic\Desktop\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.frm_ThongKeHoaDon.resources
+C:\Users\Lunatic\Desktop\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.frm_ThongKeVe.resources
+C:\Users\Lunatic\Desktop\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.frm_ThongTinTaiKhoan.resources
+C:\Users\Lunatic\Desktop\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\Lunatic\Desktop\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\Lunatic\Desktop\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\Lunatic\Desktop\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.csproj.CopyComplete
+C:\Users\Lunatic\Desktop\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.exe
+C:\Users\Lunatic\Desktop\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.pdb
+D:\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\bin\Debug\BTL.exe.config
+D:\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\bin\Debug\BTL.exe
+D:\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\bin\Debug\BTL.pdb
+D:\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.Form1.resources
+D:\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.Form2.resources
+D:\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.frm_AddNhanVien.resources
+D:\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.frm_BanVe.resources
+D:\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.frm_BanVeMB.resources
+D:\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.frm_DoiMK.resources
+D:\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.frm_ThongKeHoaDon.resources
+D:\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.frm_ThongKeVe.resources
+D:\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.frm_ThongTinTaiKhoan.resources
+D:\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.csproj.CopyComplete
+D:\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.exe
+D:\Course DHTL\HQT-CSDL\BaiTapLonNhom15\BaiTapLonNhom15\BTLFIileAppNhom15\BTL\obj\Debug\BTL.pdb
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom10\BTL\bin\Debug\BTL.exe.config
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom10\BTL\bin\Debug\BTL.exe
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom10\BTL\bin\Debug\BTL.pdb
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom10\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom10\BTL\obj\Debug\BTL.Form1.resources
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom10\BTL\obj\Debug\BTL.Form2.resources
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom10\BTL\obj\Debug\BTL.frm_AddNhanVien.resources
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom10\BTL\obj\Debug\BTL.frm_BanVe.resources
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom10\BTL\obj\Debug\BTL.frm_BanVeMB.resources
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom10\BTL\obj\Debug\BTL.frm_DoiMK.resources
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom10\BTL\obj\Debug\BTL.frm_ThongKeHoaDon.resources
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom10\BTL\obj\Debug\BTL.frm_ThongKeVe.resources
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom10\BTL\obj\Debug\BTL.frm_ThongTinTaiKhoan.resources
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom10\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom10\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom10\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom10\BTL\obj\Debug\BTL.csproj.Up2Date
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom10\BTL\obj\Debug\BTL.exe
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom10\BTL\obj\Debug\BTL.pdb
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom8\BTL\bin\Debug\BTL.exe.config
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom8\BTL\bin\Debug\BTL.exe
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom8\BTL\bin\Debug\BTL.pdb
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom8\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom8\BTL\obj\Debug\BTL.Form1.resources
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom8\BTL\obj\Debug\BTL.Form2.resources
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom8\BTL\obj\Debug\BTL.frm_AddNhanVien.resources
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom8\BTL\obj\Debug\BTL.frm_BanVe.resources
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom8\BTL\obj\Debug\BTL.frm_BanVeMB.resources
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom8\BTL\obj\Debug\BTL.frm_DoiMK.resources
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom8\BTL\obj\Debug\BTL.frm_ThongKeHoaDon.resources
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom8\BTL\obj\Debug\BTL.frm_ThongKeVe.resources
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom8\BTL\obj\Debug\BTL.frm_ThongTinTaiKhoan.resources
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom8\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom8\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom8\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom8\BTL\obj\Debug\BTL.csproj.Up2Date
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom8\BTL\obj\Debug\BTL.exe
+C:\Users\admin\Documents\BT_SQL\He_quan_tri_co_so_du_lieu\BTL - Nhóm 10 -  HQTCSDL-20231225T101857Z-001\BTL - Nhóm 10 -  HQTCSDL\Winform-BTL-Nhom8\BTL\obj\Debug\BTL.pdb
+E:\BTL_Tuongtacnguoimay\Winform-BTL-Nhom8 (1)\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+E:\BTL_Tuongtacnguoimay\Winform-BTL-Nhom8 (1)\BTL\obj\Debug\BTL.Form1.resources
+E:\BTL_Tuongtacnguoimay\Winform-BTL-Nhom8 (1)\BTL\obj\Debug\BTL.Form2.resources
+E:\BTL_Tuongtacnguoimay\Winform-BTL-Nhom8 (1)\BTL\obj\Debug\BTL.frm_AddNhanVien.resources
+E:\BTL_Tuongtacnguoimay\Winform-BTL-Nhom8 (1)\BTL\obj\Debug\BTL.frm_BanVe.resources
+E:\BTL_Tuongtacnguoimay\Winform-BTL-Nhom8 (1)\BTL\obj\Debug\BTL.frm_BanVeMB.resources
+E:\BTL_Tuongtacnguoimay\Winform-BTL-Nhom8 (1)\BTL\obj\Debug\BTL.frm_DoiMK.resources
+E:\BTL_Tuongtacnguoimay\Winform-BTL-Nhom8 (1)\BTL\obj\Debug\BTL.frm_ThongKeHoaDon.resources
+E:\BTL_Tuongtacnguoimay\Winform-BTL-Nhom8 (1)\BTL\obj\Debug\BTL.frm_ThongKeVe.resources
+E:\BTL_Tuongtacnguoimay\Winform-BTL-Nhom8 (1)\BTL\obj\Debug\BTL.frm_ThongTinTaiKhoan.resources
+E:\BTL_Tuongtacnguoimay\Winform-BTL-Nhom8 (1)\BTL\obj\Debug\BTL.Properties.Resources.resources
+E:\BTL_Tuongtacnguoimay\Winform-BTL-Nhom8 (1)\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+E:\BTL_Tuongtacnguoimay\Winform-BTL-Nhom8 (1)\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+E:\BTL_Tuongtacnguoimay\Winform-BTL-Nhom8 (1)\BTL\obj\Debug\BTL.exe
+E:\BTL_Tuongtacnguoimay\Winform-BTL-Nhom8 (1)\BTL\obj\Debug\BTL.pdb
